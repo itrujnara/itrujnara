@@ -1,28 +1,30 @@
 # Igor Trujnara
-## Bioinformatician and Game Developer (+ more)
+## Computational Scientist and Game Developer (+ more)
 
-# 🧬 Bioinformatics
-I'm currently studying bioinformatics as part of the Master in Experimental Sciences at [BIST](https://bist.eu). I am working on my final project under the supervision of [Roderic Guigo](https://orcid.org/0000-0002-5738-4477).
+# 🧬 Bioinformatics and Computational Biology
+I'm currently studying bioinformatics as part of the Master's in Experimental Sciences at [BIST](https://bist.eu). I am working on my final project under the supervision of [Roderic Guigo](https://orcid.org/0000-0002-5738-4477).
 
 ## Currently working on...
-Created:
+My projects:
 - [nf-core/reportho](https://github.com/nf-core/reportho), a pipeline for comparative analysis of ortholog predictions
+- [ND280 DL classification](https://github.com/itrujnara/nd280-project), a project to improve ND280 particle classification with various DL models
+- [Evo 2 annotation analysis](https://github.com/itrujnara/genomes-project), a project to assess the potential of enhancing genome annotation with the Evo 2 LLM 
 
-Contributed to:
+My contributions:
 - [nf-core/multiplesequencealign](https://github.com/nf-core/multiplesequencealign), a pipeline to run and systematically evaluate MSA methods
 
 # 🎮 Game Development
 I create indie video games in [Unreal Engine 5](https://unrealengine.com) under the name Vistula Development.
 
 ## Currently working on...
-The video game [Track Racer](https://instagram.com/trackracergame). Early access expected in mid-2025.
+The video game [Track Racer](https://instagram.com/trackracergame). Early access expected in 2026.
 
 # 🌐 Web Development
 I occasionally create web applications, mostly with React/Next. You can find some highlights below.
 - [an application for studying basic arithmetics](https://itrujnara.guithub.io/arytmetyka)
 
 # Want to get in touch?
-I am open for any collaboration and commission proposals in my areas of interest.
+I am open to any collaboration and commission proposals in my areas of interest.
 If you want to contact me:
 - for bioinformatics-related topics, use [igor.trujnara@crg.eu](mailto:igor.trujnara@crg.eu)
 - for other topics, including game dev and web dev, use [itrujnara@gmail.com](mailto:itrujnara@gmail.com).
