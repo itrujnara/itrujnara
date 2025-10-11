@@ -29,7 +29,7 @@ I occasionally create web applications, mostly with React/Next. You can find som
 # Want to get in touch?
 I am open to any collaboration and commission proposals in my areas of interest.
 If you want to contact me:
-- for bioinformatics-related topics, use [igor.trujnara@crg.eu](mailto:igor.trujnara@crg.eu)
+- for bioinformatics-related topics, use [igor.trujnara@irbbarcelona.org](mailto:igor.trujnara@irbbarcelona.org)
 - for other topics, including game dev and web dev, use [itrujnara@gmail.com](mailto:itrujnara@gmail.com).
 
 <!--
