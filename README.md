@@ -2,11 +2,14 @@
 ## Computational Scientist and Game Developer (+ more)
 
 # 🧬 Bioinformatics and Computational Biology
-I'm currently studying bioinformatics as part of the Master's in Experimental Sciences at [BIST](https://bist.eu). I am working on my final project under the supervision of [Roderic Guigo](https://orcid.org/0000-0002-5738-4477).
+I'm currently a bioinformatician at the [IRB](https://www.irbbarcelona.org) and [BSC](https://www.bsc.es), working in the [Comparative Genomics](https://cgenomics.org) lab of [Toni Gabaldón](https://orcid.org/0000-0003-0019-1735).
 
 ## Currently working on...
-My projects:
+My ongoing projects:
 - [nf-core/reportho](https://github.com/nf-core/reportho), a pipeline for comparative analysis of ortholog predictions
+- Microscreen, a system for early colorectal cancer detection with metagenomics and machine learning
+
+My past projects:
 - [ND280 DL classification](https://github.com/itrujnara/nd280-project), a project to improve ND280 particle classification with various DL models
 - [Evo 2 annotation analysis](https://github.com/itrujnara/genomes-project), a project to assess the potential of enhancing genome annotation with the Evo 2 LLM 
 
